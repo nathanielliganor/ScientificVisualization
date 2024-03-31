@@ -1,11 +1,5 @@
 import json
-from collections import Counter
 import numpy as np
-import operator
-import matplotlib.pyplot as plt
-from matplotlib.ticker import FuncFormatter
-from matplotlib.patches import Ellipse
-import seaborn as sns
 import pandas as pd
 from collections import defaultdict
 import altair as alt
